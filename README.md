@@ -50,7 +50,18 @@
 
 <h1 id="header-1">Primary Sources of Coding Rules</h1>
 
-<p><strong>Source Summary:</strong> E.B White’s former professor composed this mini-guide to editing content and the “style” of minimalism in writing, which he in turn published on a larger scale and added some of his own wisdom to. Initially starting as a “beware of these” grammar rule set, the book moves into a more philosophical look at the composition of words and how elusive true writing style can be, and how to build your own style following some key, structural rules.
+<p><strong>Source Summary:</strong> E.B White’s former professor composed this mini-guide to editing content and the “style” of minimalism in writing, which he in turn published on a larger scale and added some of his own wisdom to. Initially starting as a “beware of these” grammar rule set, the book moves into a more philosophical look at the composition of words and how elusive true writing style can be, and how to build your own style following some key, structural rules.</p>
+
+<p><strong>Metadata:</strong></p>
+<p>Title:The elements of style</p>
+<p>Author:Strunk, William</p>
+<p>Publication date:1920</p>
+<p>Topics:English language</p>
+<p>Publisher: New York, Harcourt, Brace</p>
+<p>Collection: cornell; americana</p>
+<p>Digitizing sponsor: MSN</p>
+<p>Contributor: Cornell University Library</p>
+<p>Language: English</p>
 
 <p><em>Bibliography</em></p>
 <p>Strunk, William. Elements of Style. Ithaca, N.Y.: Priv. print. [Geneva, N.Y.: Press of W. F. Humphrey], 1918; Bartleby.com, 1999. www.bartleby.com/141/</p>
@@ -405,7 +416,23 @@
 </ol>
 <h1 id="header-1">Secondary Sources of Style Rules</h1>
 
-<p><strong>Source Summary:</strong> Zinsser's book on writing well provides both a comprehensive guide to writing nonfiction and a useful writer's reference. He starts with an overview of the writing craft and moves into specific nonfiction writing forms. The book wraps up with the important attitudes that good writers develop.
+<p><strong>Source Summary:</strong> Zinsser's book on writing well provides both a comprehensive guide to writing nonfiction and a useful writer's reference. He starts with an overview of the writing craft and moves into specific nonfiction writing forms. The book wraps up with the important attitudes that good writers develop.</p>
+
+<p><strong>Metadata:</strong></p>
+<p>The Classic Guide to Writing Nonfiction</p>
+<p>25th Anniversary Edition</p>
+<p>ISBN 0-06-000664-1</p>
+<p>Designed by Alma Orenstein</p>
+<p>Author: Zinsser, William Knowlton</p>
+<p>First HarperResource Quill edition published 2001</p>
+<p>A HarperResource Book </p>
+<p>An Imprint of HarperCollinsPublishers </p>
+<p>On writing well. Sixth Edition, revised and updated. Copyright © 1976, 1980, 
+1985, 1988, 1990, 1994, 1998, 2001 by William K. Zinsser. All rights reserved. 
+Printed in the United States of America. No part of this book may be used or re- 
+produced in any manner whatsoever without written permission except in the case 
+of brief quotations embodied in critical articles and reviews. For information ad- 
+dress HarperCollins Publishers Inc., 10 East 53rd Street, New York, NY 10022. </p>
 
 <p><em>Bibliography</em></p>
 <p>Zinsser, William, 1922-2015. On Writing Well : an Informal Guide to Writing Nonfiction. New York, NY :HarperCollins, 1990.</p>
