@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en-US">
 
   <head>
@@ -34,7 +32,7 @@
           
 
           <h1 id="project_title">Omeka Collection</h1>
-          <h2 id="project_tagline">Slate is a theme for GitHub Pages.</h2>
+          <h2 id="project_tagline">Sources and Data</h2>
 
           
             <section id="downloads">
@@ -48,14 +46,279 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+        <p>bor my final project I would like to try and convert all the rules found in “The Elements of Style” into code and form an engine where text can be inputted. The engine will then produce the corrected text (with possible variations depending on the rule) and a report. The report would highlight the changes made to the sentence and explain why the change was made. It might even point to the more detailed text in “The Elements of Style” so that the user can have a more in-depth understanding. I will try to incorporate secondary sources in the form of information from other style books that might  disagree with “The Elements of Style” so that the user can see that they might not necessarily be “wrong”. I felt that the biggest issue and also a valuable skill in most professions is writing ability. Writing business emails,cover letters, and essays, there are a lot of information in the word that needs to be written down. I actually struggle with changing my style to match the circumstances so this project would help me practice and learn in a few areas of writing and programming and also be helpful to other students. I felt it was more a more practical project.</p>
 
-<p><a href="./another-page.html">Link to another page</a>.</p>
+<h1 id="header-1">Sources 1-10</h1>
 
-<p>There should be whitespace between paragraphs.</p>
+<p><strong>Source Summary:</strong> E.B White’s former professor composed this mini-guide to editing content and the “style” of minimalism in writing, which he in turn published on a larger scale and added some of his own wisdom to. Initially starting as a “beware of these” grammar rule set, the book moves into a more philosophical look at the composition of words and how elusive true writing style can be, and how to build your own style following some key, structural rules.
 
-<p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
+<p><em>Bibliography</em></p>
+<p>Strunk, William. Elements of Style. Ithaca, N.Y.: Priv. print. [Geneva, N.Y.: Press of W. F. Humphrey], 1918; Bartleby.com, 1999. www.bartleby.com/141/</p>
 
+<h3 id="and-an-ordered-list">And an ordered list:</h3>
+
+<ol>
+  <li>Elementary Rules of Usage</li>
+  <ul>
+  <li>Form the possessive singular of nouns by adding ‘s
+    <ul>
+      <li>Exceptions: possessives of ancient proper names endings with –es and – is. </li>
+      <li>Pronominal possessives hers, its, theirs, yours and ours have no apostrophes. Indefinite pronouns use apostrophe’s to show possession</li>
+      <li> It’s means “it is”, not to confuse it with possession.
+      </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>In a series of three or more terms with a single conjunction, use a comma after each tern except the last
+  </li>
+</ul>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Place a comma before a conjunction introducing an independent clause. 
+    <ul>
+      <li>Two-part sentences of which the second member is introduced by as, for, or, nor, or while require a comma before a conjunction </li>
+      <li>Omit the connection and when the relation of the two statements is similar</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Do not join independent clauses with a comma
+    <ul>
+      <li>Instead, use a semicolon</li>
+      <li>If a conjunction is inserted, use a comma</li>
+      <li> If the second clause is preceded by an adverb ( such as accordingly, besides, then, therefore…) the semicolon is required</li>
+      <li>Exception to semicolon rule: If the clauses are very short, use a comma</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Do not break sentences in two
+    <ul>
+      <li>You can change the period into a comma and make the following letter lowercase </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Use a colon after an independent clause to introduce a list of particulars, an appositive, amplification, or an illustrative quotation
+    <ul>
+      <li>Join two independent clauses with a colon if the second interprets the first</li>
+      <li>A colon can introduce a quotation</li>
+      <li>A colon follows a salutation of a formal letter, separated hour from minute, and separates the title of work from its subtitle or a Bible chapter from a verse </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Use a dash to set off an abrupt break or interruption and to announce a long appositive or summary
+    <ul>
+      <li> A dash is a stronger mark of separation than a comma, but less formal than a colon and more relaxed than a parenthesis</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>The number of the subject determines the number of the verb
+    <ul>
+      <li>Words that intervene b/w the subject and verb do not affect the number of the verb</li>
+      <li> Use a singular verb form after each  either, everyone, everybody, neither, nobody, someone </li>
+      <li> Use singular verb when ‘none’ means “no one” or “not one”</li>
+      <li> Compound subject=plural verb </li>
+      <li>Clichés take a singular verb</li>
+      <li> Singular subject remains singular even if other nouns are connected by with, as well as, in addition to, except, together with, no less than </li>
+      <li>Nouns that may appear to be plural are usually singular</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Use the proper case of pronoun
+    <ul>
+      <li>Personal pronouns change form as they function as subject or object</li>
+      <li> A pronoun in a comparison is nominative</li>
+      <li>Avoid “understood” verbs by supplying them</li>
+      <li>Use the simple personal pronoun as the subject </li>
+      <li>The possessive case- adjectival: your hat; noun form: a hat of yours.</li>
+      <li>Gerunds require the possessive case</li>
+      <li>Present participle as a verbal takes the objective case </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>A participle phrase at the beginning of a sentence must refer to the grammatical subject
+  </li>
+</ul>
+  <li>Elementary Principles of Comparison</li>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Enclose parenthetic expressions between commas
+    <ul>
+      <li>Never omit one comma and leave the other</li>
+      <li>Dates usually contain parenthetic words or figures</li>
+      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
+      <li>No comma should separate a noun from a restrictive term of identification</li>
+      <li>Junior (abbreviated Jr.) does not need a comma </li>
+      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
+      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+    </ul>
+  </li>
+</ul>
+  <li>A Few Matters of Form</li>
+  <li>Approach to Style</li>
+</ol>
+
+
+<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
+
+<ul>
+  <li>Item foo</li>
+  <li>Item bar</li>
+  <li>Item baz</li>
+  <li>Item zip</li>
+</ul>
+
+
+<h3 id="and-a-nested-list">And a nested list:</h3>
+
+<ul>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item
+        <ul>
+          <li>level 3 item</li>
+          <li>level 3 item</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+    </ul>
+  </li>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+    </ul>
+  </li>
+  <li>level 1 item</li>
+</ul>
 <h1 id="header-1">Header 1</h1>
 
 <p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
