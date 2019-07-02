@@ -46,7 +46,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <p>bor my final project I would like to try and convert all the rules found in “The Elements of Style” into code and form an engine where text can be inputted. The engine will then produce the corrected text (with possible variations depending on the rule) and a report. The report would highlight the changes made to the sentence and explain why the change was made. It might even point to the more detailed text in “The Elements of Style” so that the user can have a more in-depth understanding. I will try to incorporate secondary sources in the form of information from other style books that might  disagree with “The Elements of Style” so that the user can see that they might not necessarily be “wrong”. I felt that the biggest issue and also a valuable skill in most professions is writing ability. Writing business emails,cover letters, and essays, there are a lot of information in the word that needs to be written down. I actually struggle with changing my style to match the circumstances so this project would help me practice and learn in a few areas of writing and programming and also be helpful to other students. I felt it was more a more practical project.</p>
+        <p>For my final project I would like to try and convert all the rules found in “The Elements of Style” into code and form an engine where text can be inputted. The engine will then produce the corrected text (with possible variations depending on the rule) and a report. The report would highlight the changes made to the sentence and explain why the change was made. It might even point to the more detailed text in “The Elements of Style” so that the user can have a more in-depth understanding. I will try to incorporate secondary sources in the form of information from other style books that might  disagree with “The Elements of Style” so that the user can see that they might not necessarily be “wrong”. I felt that the biggest issue and also a valuable skill in most professions is writing ability. Writing business emails,cover letters, and essays, there are a lot of information in the word that needs to be written down. I actually struggle with changing my style to match the circumstances so this project would help me practice and learn in a few areas of writing and programming and also be helpful to other students. I felt it was more a more practical project.</p>
 
 <h1 id="header-1">Primary Sources of Coding Rules</h1>
 
@@ -552,6 +552,73 @@
 </li>
 <p>Above is an example of what the outline may look like for a Chicago style research paper. There are many places on the internet that will show you additional examples such as (insert web site of your choice). If you follow these guidelines, you will successfully create your outline which in turn will be the foundation for a research paper.</p>
 <p>You should have done all of your research at this time and organized all of your data so you can organize them to be input into your outline. Once you have completed your outline, you have done most of the hard work. All that is left is putting your main points into complete sentences. Follow your “map” and you will have no problem having a great flowing, concise, thorough research paper.</p>
+
+<h1 class="entry-title" itemprop="headline">Fundamentals of Chicago Citation</h1>
+<strong>Generally, Chicago/Turabian citations require:</strong>
+<ul>
+<li>Author</li>
+<li>Title of book/article</li>
+<li>Title of newspaper/journal</li>
+<li>Publication year</li>
+<li>Publication month and date</li>
+<li>Publisher</li>
+<li>City of publication</li>
+<li>Date of access</li>
+<li>Page numbers</li>
+<li>URL or DOI (for some online sources)</li>
+</ul>
+<h2 id="what-to-document-cite">What to Document/Cite</h2>
+<ul>
+<li>Direct quotations</li>
+<li>Paraphrases and summaries</li>
+<li>Information and ideas that are not common knowledge, or are not available in a common reference work</li>
+<li>Any information that you have borrowed, or anything that could be interpreted as your own if not cited</li>
+</ul>
+<h2 id="contributor-information-and-titles">Contributor Information and Titles</h2>
+<p><strong>One author:</strong></p>
+<p class="citation">Last, First M.</p>
+<p class="citation"><strong>Two authors:</strong></p>
+<p class="citation">Last, First M., and First M. Last.</p>
+<p><strong>More than 10 authors:</strong></p>
+<p class="citation">List the first seven authors, followed by <em>et al</em>.</p>
+<h4 id="authors-who-use-initials-in-their-first-names-e-g-j-k-rowling-c-s-lewis-add-a-space-between-their-initials">Authors who use initials in their first names (e.g., J.K. Rowling, C.S. Lewis), add a space between their initials.</h4>
+<p>For works with an editor/translator/compiler and no author, list the contributor’s name, followed by ed./eds., comp./comps. or trans. after the contributor(s) last name(s), preceded by a comma.</p>
+<p><strong>One editor:</strong></p>
+<p class="citation">Last, First M., ed.</p>
+<p><strong>Two authors:</strong></p>
+<p class="citation">Last, First M., and First M. Last, trans.</p>
+<p>For works with authors and additional contributors – such as an article in an edited anthology – list the author’s name first. After the article title, list the additional contributor names, preceded by Edited by, Compiled by, Translated by or Ed., Comp., or Trans.</p>
+<p>If a work has an editor and a translator, list them in the same order as they appear on the title page.</p>
+<h4 id="anonymous-works">Anonymous Works</h4>
+<p>If the author is unknown, begin the citation with the title.</p>
+<h2 id="organizing-your-bibliography">Organizing Your Bibliography</h2>
+<p>Arrange citations entries in a reference list alphabetically by the author’s last name.</p>
+<h4 id="multiple-works-by-different-authors-with-the-same-last-name-should-be-alphabetized-by-the-authors-first-initials">Multiple works by different authors with the same last name should be alphabetized by the authors’ first initials.</h4>
+<h4 id="if-a-work-is-authored-by-a-group-or-corporation-it-should-be-listed-as-an-author-and-alphabetized-by-the-first-word-in-the-groups-name">If a work is authored by a group or corporation, it should be listed as an author and alphabetized by the first word in the group’s name.</h4>
+<h2 id="capitalization-rules">Capitalization Rules</h2>
+<p>Capitalization in Chicago style follows standard “headline capitalization” rules.</p>
+<p><strong>Capitalize:</strong></p>
+<ul>
+<li>The first and last word of article or publication titles</li>
+<li>All major words, including:
+<ul>
+<li>Nouns</li>
+<li>Pronouns</li>
+<li>Adjectives</li>
+<li>Verbs</li>
+</ul>
+</li>
+</ul>
+<h2 id="some-notes-about-notes">Some Notes About Notes</h2>
+<p>Here are some tips about the use of footnotes/endnotes in Chicago/Turabian:</p>
+<ul>
+<li>Footnotes come at the bottom of each page, separated from the text with a line. Some instructors prefer that you use endnotes, which are included on a separate page (titled “Notes”) at the end of your paper.</li>
+<li>To acknowledge a source in your paper, place a superscript number (raised slightly and smaller font size) immediately after the end punctuation of a sentence containing a quotation or reference. Do not put any additional punctuation after the number.</li>
+<li>In the footnote or endnote itself, use the same number as your in-text reference.</li>
+<li>If a single paragraph of your paper contains multiple references to the same source, it is fine to create a single footnote/endnote entry.</li>
+<li>Most word processing programs, such as Microsoft Word, offer options to automate creating footnotes/endnotes.</li>
+<li>Check with your instructor before completing your paper to confirm which note style option they prefer you use.</li>
+</ul>
 
   </body>
 </html>
