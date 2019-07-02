@@ -489,6 +489,69 @@
 <ul><li>“Assistance” → “Help”</li><li>“Numerous” → “Many”</li><li>“Facilitate” → “Ease”</li><li>“Individual” → “Man” or “Woman”</li><li>“Remainder” → “Rest”</li><li>“Initial” → “First”</li><li>“Implement” → “Do”</li><li>“Sufficient” → “Enough”</li><li>“Attempt” → “Try”</li><li>“Currently”, “Today”, “At the present time” → “Now”</li><li>“Presently” → “Soon”</li></ul>
 <p><strong>Avoid fad words.</strong></p>
 <ul><li>Paradigm</li><li>Parameter</li><li>Prioritise</li><li>Potentialise</li><li>Dialogue (as a verb)</li><li>Interface (with someone)</li></ul>
+<p><strong>Source Summary:</strong> As The Chicago Manual of Style is primarily intended as a style guide for published works rather than for class papers, where necessary, CMOS guidelines will be supplemented with information from the student reference, Kate L. Turabian’s Manual for Writers of Research Papers, Theses, and Dissertations (8th ed.), which is largely based on CMOS with some slight alterations and additions.
+
+<p><em>Bibliography</em></p>
+<p>Spencer, Dave (February 15, 2011). "Chicago Manual of Style, 16th Edition [review]". Glyphic. Atlanta, Georgia, US.</p>
+
+<h3 id="and-an-ordered-list">Chicago Manual of Style Points </h3>
+<ol>
+<li>Choose your thesis statement- Your outline must begin with your thesis statement. Everything in your outline should relate to this thesis statement. Your thesis statement should start with the Roman numeral “I” followed by a period.</li>
+<li>Roman numerals are used for all of your major points. Each Roman numeral represents a paragraph.</li>
+<li>The ideas that you have found to support your main points should all begin with capital letters. These ideas that begin with capital letters should be indented one space past the Roman numerals.</li>
+<li>Depending on how many categories you need to support each of your ideas will depend on how you indicate them on your paper.</li>
+</ol>
+<p><em>This is an example of what the outline might look like:</em></p>
+
+<ul><li>I. Thesis Statement
+</li>
+<li>II. Major Point
+</li>
+<ul><li>A. Support major point
+</li>
+<ul><li>1. Supporting evidence
+</li>
+<ul><li>a. Evidence
+</li>
+<li>a.i.a) More evidence
+</li></ul>
+<li>2. Supporting evidence
+</li></ul>
+<li>B. Support major Point
+</li>
+<ul><li>1. Supporting evidence
+</li>
+<li>2. Supporting evidence
+</li></ul></ul>
+<li>III. Major Point
+</li>
+<ul><li>A. Support major point
+</li></ul>
+
+<ul><li>1. Supporting evidence
+</li>
+<li>2. Supporting evidence
+</li>
+<li>3. Supporting evidence
+</li></ul>
+<li>B. Support major point
+</li></ul>
+
+<ul><li>1. Supporting evidence
+</li></ul>
+<li>IV. Major Point
+</li>
+<ul><li>A. Supporting major point
+</li></ul>
+
+<ul><li>1. Supporting evidence
+</li>
+<li>2. Supporting evidence
+</li></ul>
+<li>V. Conclusion
+</li>
+<p>Above is an example of what the outline may look like for a Chicago style research paper. There are many places on the internet that will show you additional examples such as (insert web site of your choice). If you follow these guidelines, you will successfully create your outline which in turn will be the foundation for a research paper.</p>
+<p>You should have done all of your research at this time and organized all of your data so you can organize them to be input into your outline. Once you have completed your outline, you have done most of the hard work. All that is left is putting your main points into complete sentences. Follow your “map” and you will have no problem having a great flowing, concise, thorough research paper.</p>
 
   </body>
 </html>
