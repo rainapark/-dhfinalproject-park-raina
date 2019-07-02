@@ -48,7 +48,7 @@
       <section id="main_content" class="inner">
         <p>bor my final project I would like to try and convert all the rules found in “The Elements of Style” into code and form an engine where text can be inputted. The engine will then produce the corrected text (with possible variations depending on the rule) and a report. The report would highlight the changes made to the sentence and explain why the change was made. It might even point to the more detailed text in “The Elements of Style” so that the user can have a more in-depth understanding. I will try to incorporate secondary sources in the form of information from other style books that might  disagree with “The Elements of Style” so that the user can see that they might not necessarily be “wrong”. I felt that the biggest issue and also a valuable skill in most professions is writing ability. Writing business emails,cover letters, and essays, there are a lot of information in the word that needs to be written down. I actually struggle with changing my style to match the circumstances so this project would help me practice and learn in a few areas of writing and programming and also be helpful to other students. I felt it was more a more practical project.</p>
 
-<h1 id="header-1">Sources 1-10</h1>
+<h1 id="header-1">Primary Sources of Coding Rules</h1>
 
 <p><strong>Source Summary:</strong> E.B White’s former professor composed this mini-guide to editing content and the “style” of minimalism in writing, which he in turn published on a larger scale and added some of his own wisdom to. Initially starting as a “beware of these” grammar rule set, the book moves into a more philosophical look at the composition of words and how elusive true writing style can be, and how to build your own style following some key, structural rules.
 
@@ -279,227 +279,216 @@
   <ul>
       <li>Use italics for titles with capitalized initials</li>
     </ul>
-    </li>
 </ul>
 <li>Approach to Style</li>
 <ul>
-  <li>Place yourself in the background
+ <li>Place yourself in the background
   <ul>
-      <li>Use italics for titles with capitalized initials</li>
+      <li>Draw reader’s attention to the sense and substance of writing</li>
+    <li>If writing is solid and good, the mood an temper of the writer wil be revealed</li>
+    <li>A careful and honest writer does not need to worry about the background</li>
+  </ul>
+  </li>
+<li>Write in a way that comes naturally
+  <ul>
+      <li>Write naturally using words and phrases that come readily to hand </li>
+    <li>Do not be afraid to imitate, for it is almost impossible not to </li>
+  </ul>
+  </li>
+<li>Work from a suitable design 
+  <ul>
+      <li>Before composing something, gauge the nature an extent of the enterprise and work from a suitable design </li>
+    <li>Do your best to anticipate what you are getting into</li>
+    <li>Sometimes emotions are more compelling than designs</li>
+  </ul>
+  </li>
+ <li>Write with nouns and verbs  
+  <ul>
+      <li>Write with nouns and verbs, not adjectives and adverbs</li>
+    <li>It’s nouns and verbs that gives good writing its toughness </li>
+  </ul>
+  </li>
+<li>Revise and rewrite 
+  <ul>
+      <li>Always check over your work because it is never perfect on the first try </li>
+    <li>Do not be afraid to experiment with what you have written </li>
+  </ul>
+  </li>
+<li>Do not overwrite 
+  <ul>
+      <li>Always avoid writing excessively and remember to reread your writing </li>
+  </ul>
+  </li>
+ <li>Do not overstate 
+  <ul>
+      <li>When you overstate, your readers will be on guard </li>
+    <li>A single overstatement diminished the whole</li>
+  </ul>
+  </li>
+<li>Avoid the use of qualifiers 
+  <ul>
+      <li>Rather, very, little , pretty—are qualifiers </li>
+  </ul>
+  </li>
+<li>Do not affect a brezzy manner 
+  <ul>
+      <li>Often the work of an egocentric </li>
+    <li>Avoid slang and dullness </li>
+  </ul>
+  </li>
+<li>Use orthodox spelling
+  <ul>
+      <li>Do not write nite for night or thru for through, pleez for please </li>
+  </ul>
+  </li>
+<li> Do not explain too much 
+  <ul>
+      <li>Spare the use of adverbs after speech, like “he said”, etc</li>
+    <li>Dialogue itself should disclose the speaker’s manner</li>
+  </ul>
+  </li>
+<li>Do not construct awkward adverbs
+  <ul>
+      <li>For example “Tiredly” is not an adverb</li>
+  </ul>
+  </li>
+<li> Make sure the reader knows who is speaking 
+  <ul>
+      <li>Make sure you let the reader understand who is speaking in the dialogue </li>
+  </ul>
+  </li>
+<li>Avoid fancy words  
+  <ul>
+      <li>Avoid the elaborate, the pretentious, the coy, and the cute</li>
+  </ul>
+  </li>
+<li>Do not use dialect unless your ear is good 
+  <ul>
+      <li>Do not attempt to use dialect unless you are a devoted student of the tongue </li>
+  </ul>
+  </li>
+<li>Be clear
+  <ul>
+      <li>Clarity can only be virtue</li>
+    <li>Don’t be too vague, but clear enough so it is understood</li>
+  </ul>
+  </li>
+<li>Do not inject opinion  
+  <ul>
+      <li>Unless there is a good reason </li>
+    <li>Try to keep things straight</li>
+  </ul>
+  </li>
+<li>Use figures of speech 
+  <ul>
+      <li>The simile is the most common and useful </li>
+    <li>When using a metaphor, do not mix it up </li>
+  </ul>
+  </li>
+<li>Do not take shortcuts at the cost of clarity  
+  <ul>
+      <li>Do not use abbreviations unless you’re sure it will be understood by everyone </li>
+  </ul>
+  </li>
+<li>Avoid foreign languages
+  <ul>
+      <li> It is a bad habit, write in English </li>
+  </ul>
+  </li>
+<li>Prefer the standard to the offbeat
+  <ul>
+      <li>Don’t use words like: psyched, nerd, rip-off, dude, geek </li>
+    <li> These words will someday fade</li>
   </ul>
   </li>
 </ul>
 </ol>
+<h1 id="header-1">Secondary Sources of Style Rules</h1>
 
+<p><strong>Source Summary:</strong> Zinsser's book on writing well provides both a comprehensive guide to writing nonfiction and a useful writer's reference. He starts with an overview of the writing craft and moves into specific nonfiction writing forms. The book wraps up with the important attitudes that good writers develop.
 
-<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
+<p><em>Bibliography</em></p>
+<p>Zinsser, William, 1922-2015. On Writing Well : an Informal Guide to Writing Nonfiction. New York, NY :HarperCollins, 1990.</p>
 
-<ul>
-  <li>Item foo</li>
-  <li>Item bar</li>
-  <li>Item baz</li>
-  <li>Item zip</li>
-</ul>
-
-
-<h3 id="and-a-nested-list">And a nested list:</h3>
-
-<ul>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item
-        <ul>
-          <li>level 3 item</li>
-          <li>level 3 item</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item</li>
-</ul>
-<h1 id="header-1">Header 1</h1>
-
-<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
-
-<h2 id="header-2">Header 2</h2>
-
+<h3 id="and-an-ordered-list">On Writing Well Points </h3>
+<h4><b>GOOD WRITING IS CLEAR, SIMPLE, CONCISE, AND HUMAN.</b></h4>
+<p><b>Be Clear.</b></p>
 <blockquote>
-  <p>This is a blockquote following a header.</p>
-
-  <p>When something is important enough, you do it even if the odds are not in your favor.</p>
+  <p><i>“Give the reader a narrative flow he can follow with no trouble from beginning to end.”</i></p>
 </blockquote>
+<ul><li>The reader should find it easy to follow.</li><li>The writing should be structured, linear, flowing, emphatic, and familiar.</li><li>The writer should set a single intention, research extensively, think clearly, structure carefully and use analogies.</li></ul>
+<p><b>Be Simple.</b></p>
+<blockquote>
+<p><i>“A simple style is the result of hard work and hard thinking; a muddled style reflects a muddled thinker.”</i></p>
+</blockquote>
+<ul><li>The reader should find it easy to read.</li><li>The writing should contain short and simple paragraphs, sentences, and words.</li><li>The writer should test by reading aloud. Always remember the reader and shorten words where possible.</li></ul>
+<p><b>Be Concise.</b></p>
+<blockquote>
+<p><i>“The secret of good writing is to strip every sentence to its cleanest components.”</i></p>
+</blockquote>
+<ul><li>The reader should find each point quick to understand.</li><li>The writing should use words that are surprising, strong, and precise in their meaning.</li><li>The writer should <a href="#clutter">eliminate clutter</a> (“Good writing is lean and emphatic.”), avoid cliché and jargon, and commit (“Don’t hedge with little timidities.”)</li></ul>
+<p><b>Be Human.</b></p>
+<blockquote>
+<p><i>“Writing is an intimate transaction between two people… and it will go well to the extent that it retains its humanity.”</i></p>
+</blockquote>
+<ul><li>The reader should be able to relate to both content and author.</li><li>The writing should feel personal, energetic, specific, and concrete.</li><li>The writer should write like a person, tell a story, use quotes, use detail to illustrate the general, and have fun.</li></ul>
+<h4><b>GOOD WRITING GROWS FROM GOOD PROCESS.</b></h4>
+<p><b>Set intention.</b></p>
+<ul><li>“Decide what single point you want to leave in the reader’s mind”.</li><li>Decide how you plan to put it there.</li></ul>
+<p><b>Research.</b></p>
+<blockquote>
+<p><i>“Readers should always feel that you know more about a subject than you put in writing.”</i></p>
+</blockquote>
+<ul><li>Go after your research; if it interests you then “get on the plane”: travel to the next town, county, or county to find it.</li><li>“Always collect more material than you will use.”</li><li>“Look for your material everywhere”, not just in the obvious places.</li><li>And follow surprises. “Surprise is the most refreshing element in non-fiction writing. If something surprises you it will also surprise – and delight – the people you are writing for.”</li></ul>
+<p><b>Think.</b></p>
+<blockquote>
+<p><i>“Clear thinking becomes clear writing; one can’t exist without the other.”</i></p>
+</blockquote>
+<ul><li>Select: Use less than you have.</li><li>Reduce: Explain big by thinking small. Tell a story.</li><li>Organise: Clear writing &lt;==&gt; Clear thinking.</li><li>“Your subconscious mind does more writing than you think” so, “never go to sleep without a request to [it].” — Thomas Edison</li></ul>
+<p><b>Write.</b></p>
+<ul><li>Go easy on yourself (“The first draft of anything is shit.” — Earnest Hemmingway)</li><li>Put yourself into the writing by always writing the first draft in the first person (then go back and remove the ‘I’s if you must).</li><li>Trust and adapt to your material: “Don’t become the prisoner of a preconceived plan”.</li><li>When you get stuck ask yourself “What is this piece <i>really</i> about?”</li></ul>
+<p><b>Rewrite.</b></p>
+<ul><li>Read aloud; remove anything you wouldn’t actually say.</li><li>Edit on paper; process the full composition with a pen, then apply edits.</li><li>Continuously strengthen, tighten and make the language more precise.</li><li>Repeat. Repeat. Repeat: “Rewriting is the essence of writing well; it’s where the game is won or lost.”</li></ul>
+<p><b>Defend.</b></p>
+<ul><li>A good editor brings an “objective eye” and “can’t be thanked fervently enough”.</li><li>But defend against direct edits to (a) style and (b) content: “If you allow your distinctiveness to be edited out, you will lose one of your major virtues.”</li></ul>
+<h4><b>THE ANATOMY OF WRITING WELL.</b></h4>
+<p><b>Words.</b></p>
+<blockquote>
+<p><i>“Writing that endures consists of words that are short and strong.”</i></p>
+</blockquote>
+<ul><li>Use short words over long words.</li><li>Use verbs over nouns.</li><li>Verbs: Use active verbs over passive verbs.<ul><li>“The ground <b>was covered</b> in leaves.” → “Leaves <b>covered</b> the ground”</li></ul></li><li>Nouns: Make people act, not concepts.<ul><li>“<b>The first reaction is</b> often laughter.” → “<b>People </b>often laugh.”</li></ul></li><li>Use adverbs only where they change meaning. (See <a href="#clutter">“How to: Cleanse Clutter”</a>)</li><li>Use adjectives only where they surprise or inform.&nbsp; (See <a href="#clutter">“How to: Cleanse Clutter”</a>)</li><li>Use neutral over sexist or gendered language. (See <a href="#sexism">“How to: Side-step Sexism”</a>)</li><li>“Get in the habit of using dictionaries” and a thesaurus*.</li></ul>
+<p>* If you’re looking for an immediate next action: why not set up a good dictionary and thesaurus on your computer?</p>
+<p><b>Sentences.</b></p>
+<blockquote>
+<p><i>“Readers read with their eyes. But in fact, they hear what they are reading far more than you realise.”</i></p>
+</blockquote>
+<ul><li>Make sentences short and rhythmic.<ul><li>Within: “Rhythm and alliteration are vital to every sentence.”</li><li>Between: “See if you can gain variety by reversing the order of a sentence or by substituting a word that has freshness or oddity or by altering the length of your sentences.”</li></ul></li><li>Make sentences flow.<ul><li>Remember where you left the reader in the last sentence.</li><li>Indicate mood changes (e.g., now, but, later) early in the current sentence.</li><li>Build suspense for the next sentence.</li></ul></li><li>Make sentences unique (advance, don’t restate).</li><li>Remember: “a difficult problem in a sentence can [often] be solved by simply getting rid of it.”</li></ul>
+<p><b>Paragraphs.&nbsp;</b></p>
+<blockquote>
+<p><i>“Writing is visual – it catches the eye before it has a chance to catch the brain.”</i></p>
+</blockquote>
+<ul><li>Make paragraphs short (but not so short they interrupt a thought).</li><li>Make paragraphs structured, linear, and flowing: “Every paragraph should amplify the one that preceded it.”</li><li>Make paragraphs relevant to the composition’s intention (i.e., stick to the point).</li></ul>
+<p><b>The lead.</b></p>
+<ul><li>Remember, “the most important sentence in any article is the first one.”</li><li>First “capture the reader immediately and force him to keep reading.”</li><li>Then “tell the reader why the piece was written and why he ought to read it.”</li></ul>
+<p><b>The close.</b></p>
+<ul><li>“Give as much thought to choosing your last sentence as you did to your first.”</li><li>Don’t summarise or restate. Instead, “bring the story full circle – strike an echo of a note that was sounded at the beginning.”</li><li>Remember “the perfect ending should take your readers slightly by surprise and yet seem exactly right.”</li><li>And don’t sell past the close: “When you’re ready to stop, stop.”</li></ul>
+<h4 id="clutter"><b>HOW TO: CLEANSE CLUTTER.</b></h4>
+<p><strong>Remove</strong>:</p>
+<ul><li>Sentences that rephrase something already stated.</li><li>Points that tell the reader something they already know or can work out themselves.</li><li>Technical jargon.</li><li>Clichés.</li></ul>
+<p><strong>Simplify euphemisms (esp. in business and politics).</strong></p>
+<ul><li>“Depressed socioeconomic area” → “Slum”</li><li>“Waste disposal personnel” → “Garbage collectors”</li><li>“Volume reduction unit” → “Town dump”</li><li>“Volume-related production-schedule adjustment” → “Plant shutdown”</li><li>“Impacted the ground prematurely” → “Crashed”</li><li>“A negative cashflow position” → “Insolvent”</li></ul>
+<p><strong>Deflate inflated phrases</strong>.</p>
+<ul><li>“Referred to as” → “Called”</li><li>“With the possible exception of” → “Except”</li><li>“Due to the fact that” → “Because”</li><li>“He totally lacked the ability to” → “He couldn’t”</li><li>“Until such a time as” → “Until”</li><li>“For the purpose of” → “For”</li><li>“Are you experiencing any pain?” → “Does it hurt?”</li></ul>
+<p><strong>Prune meaningless bloat.</strong></p>
+<ul><li>“I might add”</li><li>“It should be pointed out”</li><li>“It is interesting to note”</li><li>“It will interest you” (if it is interesting, let it be interesting)</li><li>“Surprisingly” (if it&nbsp;is surprising, let it surprise)</li><li>“Of course” (if something is obvious, omit it)</li></ul>
+<p><strong>Omit qualifiers.</strong></p>
+<ul><li>“A bit”</li><li>“Sort of”</li><li>“Very”</li><li>“Too”</li><li>“Kind of”</li><li>“Rather”</li><li>“Quite”</li><li>“In a sense”</li></ul>
+<p><strong>Get rid of redundant adjectives, adverbs and prepositions.</strong></p>
+<ul><li>“A personal friend” → “A friend”</li><li>“A tall skyscraper” → “A skyscraper”</li><li>“Smile happily” → “Smile”</li><li>“Order up” → “Order”</li></ul>
+<p><strong>Shorten long words.</strong></p>
+<ul><li>“Assistance” → “Help”</li><li>“Numerous” → “Many”</li><li>“Facilitate” → “Ease”</li><li>“Individual” → “Man” or “Woman”</li><li>“Remainder” → “Rest”</li><li>“Initial” → “First”</li><li>“Implement” → “Do”</li><li>“Sufficient” → “Enough”</li><li>“Attempt” → “Try”</li><li>“Currently”, “Today”, “At the present time” → “Now”</li><li>“Presently” → “Soon”</li></ul>
+<p><strong>Avoid fad words.</strong></p>
+<ul><li>Paradigm</li><li>Parameter</li><li>Prioritise</li><li>Potentialise</li><li>Dialogue (as a verb)</li><li>Interface (with someone)</li></ul>
 
-<h3 id="header-3">Header 3</h3>
-
-<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
-<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nx">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">'./lang/'</span> <span class="o">+</span> <span class="nx">l</span><span class="p">)</span>
-  <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby code with syntax highlighting</span>
-<span class="no">GitHubPages</span><span class="o">::</span><span class="no">Dependencies</span><span class="p">.</span><span class="nf">gems</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">gem</span><span class="p">,</span> <span class="n">version</span><span class="o">|</span>
-  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
-<span class="k">end</span>
-</code></pre></div></div>
-
-<h4 id="header-4">Header 4</h4>
-
-<ul>
-  <li>This is an unordered list following a header.</li>
-  <li>This is an unordered list following a header.</li>
-  <li>This is an unordered list following a header.</li>
-</ul>
-
-<h5 id="header-5">Header 5</h5>
-
-<ol>
-  <li>This is an ordered list following a header.</li>
-  <li>This is an ordered list following a header.</li>
-  <li>This is an ordered list following a header.</li>
-</ol>
-
-<h6 id="header-6">Header 6</h6>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">head1</th>
-      <th style="text-align: left">head two</th>
-      <th style="text-align: left">three</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good swedish fish</td>
-      <td style="text-align: left">nice</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">out of stock</td>
-      <td style="text-align: left">good and plenty</td>
-      <td style="text-align: left">nice</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good <code class="highlighter-rouge">oreos</code></td>
-      <td style="text-align: left">hmm</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good <code class="highlighter-rouge">zoute</code> drop</td>
-      <td style="text-align: left">yumm</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</h3>
-
-<hr />
-
-<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
-
-<ul>
-  <li>Item foo</li>
-  <li>Item bar</li>
-  <li>Item baz</li>
-  <li>Item zip</li>
-</ul>
-
-<h3 id="and-an-ordered-list">And an ordered list:</h3>
-
-<ol>
-  <li>Item one</li>
-  <li>Item two</li>
-  <li>Item three</li>
-  <li>Item four</li>
-</ol>
-
-<h3 id="and-a-nested-list">And a nested list:</h3>
-
-<ul>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item
-        <ul>
-          <li>level 3 item</li>
-          <li>level 3 item</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item</li>
-</ul>
-
-<h3 id="small-image">Small image</h3>
-
-<p><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" /></p>
-
-<h3 id="large-image">Large image</h3>
-
-<p><img src="https://guides.github.com/activities/hello-world/branching.png" alt="Branching" /></p>
-
-<h3 id="definition-lists-can-be-used-with-html-syntax">Definition lists can be used with HTML syntax.</h3>
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-</code></pre></div></div>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
-</code></pre></div></div>
-
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        
-        <p class="copyright">Slate theme maintained by <a href="https://github.com/pages-themes">pages-themes</a></p>
-        
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
   </body>
 </html>
