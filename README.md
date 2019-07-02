@@ -282,7 +282,13 @@
     </li>
 </ul>
 <li>Approach to Style</li>
-  
+<ul>
+  <li>Place yourself in the background
+  <ul>
+      <li>Use italics for titles with capitalized initials</li>
+  </ul>
+  </li>
+</ul>
 </ol>
 
 
