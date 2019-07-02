@@ -279,7 +279,10 @@
   <ul>
       <li>Use italics for titles with capitalized initials</li>
     </ul>
-  <li>Approach to Style</li>
+    </li>
+</ul>
+<li>Approach to Style</li>
+  
 </ol>
 
 
