@@ -55,7 +55,7 @@
 <p><em>Bibliography</em></p>
 <p>Strunk, William. Elements of Style. Ithaca, N.Y.: Priv. print. [Geneva, N.Y.: Press of W. F. Humphrey], 1918; Bartleby.com, 1999. www.bartleby.com/141/</p>
 
-<h3 id="and-an-ordered-list">And an ordered list:</h3>
+<h3 id="and-an-ordered-list">Outline of Rules 1-44 </h3>
 
 <ol>
   <li>Elementary Rules of Usage</li>
@@ -70,7 +70,7 @@
   </li>
 </ul>
 <ul>
-  <li>In a series of three or more terms with a single conjunction, use a comma after each tern except the last
+  <li>In a series of three or more terms with a single conjunction, use a comma after each term except the last
   </li>
 </ul>
 <ul>
@@ -159,123 +159,126 @@
 </ul>
   <li>Elementary Principles of Comparison</li>
 <ul>
-  <li>Enclose parenthetic expressions between commas
+  <li>Choose a suitable design and hold to it
     <ul>
-      <li>Never omit one comma and leave the other</li>
-      <li>Dates usually contain parenthetic words or figures</li>
-      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
-      <li>No comma should separate a noun from a restrictive term of identification</li>
-      <li>Junior (abbreviated Jr.) does not need a comma </li>
-      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
-      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+      <li> In some cases, the best design is no design </li>
+      <li>1st principle of composition: to determine the shape of what is to come and pursue the shape </li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Enclose parenthetic expressions between commas
+  <li>Make the paragraph the unit of composition 
     <ul>
-      <li>Never omit one comma and leave the other</li>
-      <li>Dates usually contain parenthetic words or figures</li>
-      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
-      <li>No comma should separate a noun from a restrictive term of identification</li>
-      <li>Junior (abbreviated Jr.) does not need a comma </li>
-      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
-      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+      <li>Paragraph serves all forms of literary works. </li>
+      <li>Can be of any length- from a sentence to a long passage </li>
+      <li>Division of paragraphs isn’t always necessary, especially if your topic is brief </li>
+      <li>Single sentences should not be written or printed as paragraphs- except sentences of transitions </li>
+      <li>Each speech in dialogue is a paragraph with the change of the speaker</li>
+      <li>Use topic sentences to introduce your topic; animated narrative sometimes has not topic sentence</li>
+      <li> Try to cut really long paragraphs shorter, but don’t have too many short paragraphs </li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Enclose parenthetic expressions between commas
+  <li>Use the active voice
     <ul>
-      <li>Never omit one comma and leave the other</li>
-      <li>Dates usually contain parenthetic words or figures</li>
-      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
-      <li>No comma should separate a noun from a restrictive term of identification</li>
-      <li>Junior (abbreviated Jr.) does not need a comma </li>
-      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
-      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+      <li>Active voice is more direct than passive </li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Enclose parenthetic expressions between commas
+  <li>Put statements in positive forms
     <ul>
-      <li>Never omit one comma and leave the other</li>
-      <li>Dates usually contain parenthetic words or figures</li>
-      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
-      <li>No comma should separate a noun from a restrictive term of identification</li>
-      <li>Junior (abbreviated Jr.) does not need a comma </li>
-      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
-      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+      <li>Make definite assertions; avoid colorless, noncommittal language; use ‘not’ only as a means of denial</li>
+      <li>It is better to express a negative in positive form</li>
+      <li>If a sentence admits a doubt, it lacks authority—avoid this </li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Enclose parenthetic expressions between commas
+  <li>Use definite, specific, concrete, language.</li>
+</ul>
+<ul>
+  <li>Omit needless words
     <ul>
-      <li>Never omit one comma and leave the other</li>
-      <li>Dates usually contain parenthetic words or figures</li>
-      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
-      <li>No comma should separate a noun from a restrictive term of identification</li>
-      <li>Junior (abbreviated Jr.) does not need a comma </li>
-      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
-      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+      <li>A sentence should not contain unnecessary words </li>
+      <li>The fact that is debilitating expression and should always be revised</li>
+      <li>The words who is, which was, and the like are often superfluous</li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Enclose parenthetic expressions between commas
+  <li>Avoid a succession of loose sentences.
     <ul>
-      <li>Never omit one comma and leave the other</li>
-      <li>Dates usually contain parenthetic words or figures</li>
-      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
-      <li>No comma should separate a noun from a restrictive term of identification</li>
-      <li>Junior (abbreviated Jr.) does not need a comma </li>
-      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
-      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+      <li>Rule refers to sentences of a particular type: those consisting of two clauses, the second introduced by a conjunction or a relative</li>
+      <li>Use which, who, when, where, while instead of so much and, but</li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Enclose parenthetic expressions between commas
+  <li>Express coordinate ideas in similar form</li>
+</ul>
+<ul>
+  <li>Keep related words together
     <ul>
-      <li>Never omit one comma and leave the other</li>
-      <li>Dates usually contain parenthetic words or figures</li>
-      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
-      <li>No comma should separate a noun from a restrictive term of identification</li>
-      <li>Junior (abbreviated Jr.) does not need a comma </li>
-      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
-      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+      <li>The subject of a sentence and the principal verb should not be separated </li>
+      <li>Interposing a phrase or a clause interrupts the flow of the main clause. The relative pronoun should come immediately after its antecedent</li>
+      <li>If the antecedent consists of a group of words, the relative comes at the end of the group </li>
+      <li>A noun in apposition may come between the antecedent and relative </li>
+      <li>Modifiers should come, if possible, next to the word they modify </li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Enclose parenthetic expressions between commas
+  <li>In summaries, keep to one tense
     <ul>
-      <li>Never omit one comma and leave the other</li>
-      <li>Dates usually contain parenthetic words or figures</li>
-      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
-      <li>No comma should separate a noun from a restrictive term of identification</li>
-      <li>Junior (abbreviated Jr.) does not need a comma </li>
-      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
-      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+      <li> Summarizing the action of drama (present tense)</li>
+      <li>Poems, stories, or novel (present tense, you may use past tense if it seems more natural)</li>
+      <li>Keep same tense throughout your writing</li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Enclose parenthetic expressions between commas
+  <li>Place the emphatic words of a sentence at the end 
     <ul>
-      <li>Never omit one comma and leave the other</li>
-      <li>Dates usually contain parenthetic words or figures</li>
-      <li>The abbreviations etc., i.e., and e.g. , the abbreviations for academic degrees, and titled that follow a name are parenthetic</li>
-      <li>No comma should separate a noun from a restrictive term of identification</li>
-      <li>Junior (abbreviated Jr.) does not need a comma </li>
-      <li>Nonrestrictive relative clauses are parenthetic and is one that does not serve to identify or define the antecedent noun</li>
-      <li> Restrictive clauses are not parenthetic and are not set off by commas.</li>
+      <li>The proper place in the sentence for the word or group of words that the writer desired to make most prominent is usually the end</li>
+      <li> A subject coming first in its sentence may be emphatic, but hardly by its position alone. </li>
     </ul>
   </li>
 </ul>
   <li>A Few Matters of Form</li>
+<ul>
+  <li>Colloquialisms: if a colloquialism, slang word, or phrase is used, do not draw attention to it by enclosing it in quotation marks </li>
+  <li> Exclamations:  do not attempt to emphasize simple statements by using exclamation points </li>
+  <li>Headings: If a manuscripts is to be submitted for publication, leave plenty of space at the top of the page 1. The editor will use the space to write directions to the compositor. Place the heading at least a fourth way down the page. Leave a blank line after the heading. Omit the period of the headline, but use a question mark or exclamation point it necessary </li>
+  <li>Hyphen:  when two or more words are combined to form a compound adjective, a hyphen is required </li>
+  <ul>
+      <li>Do not use a hyphen on words that are better combined as one</li>
+    </ul>
+  <li>Margins: keep right-hand and left-hand margins roughly the same width </li>
+  <li>Numerals: do not spell out dated or other serial numbers. Write them in figures or in Roman notation. The only exception is if you write it out in dialogue</li>
+  <li>Parentheses: A sentence containing an expression in parenthesis is punctuated outside the last mark of parenthesis exactly as if the parenthetical expression were absent </li>
+  <li>Quotations: Formal quotations cited as documentary evidence are introduced by a colon and enclosed in quotation marks. </li>
+<ul>
+      <li>A quotation grammatically in apposition or the direct object of a verb is proceeded by a comma and enclosed in quotation marks</li>
+    <li>When a quotation is followed by an attributive phrase, the comma is enclosed within the quotation marks</li>
+    <li>Proverbial expressions and familiar phrases of literary origin require no quotations </li>
+    </ul>
+  <li>References</li>
+  <ul>
+      <li>In scholarly work requiring exact reference, abbreviate titles that appear frequently </li>
+    <li>Give the full forms in an alphabetical list at the end</li>
+    <li>Give reference in parenthesis and footnotes </li>
+    <li>Omit the words: act, scene, line, book, volume, page </li>
+    </ul>
+  <li>Syllabication</li>
+  <ul>
+      <li>When a word must be divided at the end of a line, consult a dictionary to learn the syllables</li>
+    </ul>
+  <li>Titles</li>
+  <ul>
+      <li>Use italics for titles with capitalized initials</li>
+    </ul>
   <li>Approach to Style</li>
 </ol>
 
